@@ -1,0 +1,21 @@
+{
+    "conf_dev":{
+        "driver":"mysql",
+        "dbhost":"127.0.0.1",
+        "dbname":"taskmanager",
+        "dbuser":"admin",
+        "dbpass":"linuxlinux",
+        "web":"http://localhost:3000/",
+        "root":"/"
+        
+    },
+    "conf_pro":{       
+        "driver":"mysql",
+        "dbhost":"gura.cesnuria.com",
+        "dbname":"GuRa_taskmanager",
+        "dbuser":"GuRa_prouf1",
+        "dbpass":"linuxlinux",       
+        "web":"/m7/TODO/",
+        "root":"/m7/TODO/"
+    }
+}

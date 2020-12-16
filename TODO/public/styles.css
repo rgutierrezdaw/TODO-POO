@@ -1,0 +1,101 @@
+header{
+    width: 100%;
+    height: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 4em;
+    background-color: #1A1423;
+    color: white;
+}
+html{
+    height: 100%; 
+}
+body{
+    width: 100%;
+    min-height: 100%;
+}
+footer{
+    padding-top: 3% ;
+    padding-bottom: 3%;
+    padding-right: 3%;
+    padding-left: 3%;
+    background-color: #1A1423;
+    color: #eacdc2;
+    width: 100%;
+    height: 100%;
+}
+section{
+    padding: 40px 40px 30px 30px;
+    font-weight: bolder;
+    color: black;
+}
+.register{
+    background-color: #1A1423;
+}
+.tasks{
+    width: 100%;
+    height: 100%;
+    padding: 4% 2% 4% 2%;
+
+}
+h1{
+    font-family: 'Comfortaa', sans-serif;
+}
+form h3{
+    font-family: 'Comfortaa', sans-serif;
+    font-weight: bolder;
+}
+form label{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+}
+form{
+    padding: 20px 20px 20px 20px;
+    border: 3px solid#372549;
+    background-color: white;
+}
+nav{
+    background-color: #1A1423;
+}
+nav a{
+    font-family:'Comfortaa', sans-serif;
+    color:#eacdc2;
+    font-size: 1.5em;
+}
+nav button{
+    border-style: none;
+    font-family:'Comfortaa', sans-serif;
+    color: black;
+}
+.close{
+    font-size:1.3em;
+    border: none;
+
+}
+.hidden{
+    border: none;
+}
+.close input{
+    border: none;
+    outline: none;
+    color: #eacdc2;
+    background-color: transparent;
+}
+.tasca{
+    padding: 20px 20px 20px 20px;
+    color:  #1A1423;
+}
+.index{
+    width: 100%;
+    height: 100%;
+}
+.welcome{
+    width: 100%;
+    height: 100%;
+
+}
+.action{
+    margin-bottom: 5px;
+}
+
+
